@@ -1,0 +1,54 @@
+.pink-bg{
+    background-color: rgb(255, 232, 232);
+    margin: 20px 0;
+}
+
+.carousel-item{
+    padding: 20px 50px;
+}
+
+.btn{
+    background-image: linear-gradient(to bottom, rgb(255, 105, 180) 0%, rgb(255, 20, 147)100%);
+    color: white;
+    margin: 20px 0;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+ .price{
+    color: rgb(255, 20, 147);
+ }
+ .cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin: 20px 0;
+ }
+ .cat1{
+    background-color: rgb(145, 143, 188);  
+ }
+
+ .cat2{
+    background-color: lightcoral;
+ }
+ .cat3{
+    background-color: rgb(228, 255, 105);
+ }
+ 
+ .categories h1{
+    color: white;
+ }
+
+ .card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+ }
+
+.container{
+    margin: 20px auto;
+}
+
+footer{
+    color: grey;
+    text-align: center;
+}
